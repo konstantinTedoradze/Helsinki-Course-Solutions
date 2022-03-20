@@ -1,0 +1,44 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "154-794-4655",
+      "id": 1
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": 4
+    },
+    {
+      "name": "James Bond",
+      "number": "588-789-4569",
+      "id": 5
+    },
+    {
+      "name": "Jimsher Tyabladze",
+      "number": "568-778-7698",
+      "id": 6
+    },
+    {
+      "name": "Kosta Arutinovi",
+      "number": "659-484-7959",
+      "id": 7
+    },
+    {
+      "name": "levan lomidze",
+      "number": "658-422-4652",
+      "id": 10
+    }
+  ]
+}
